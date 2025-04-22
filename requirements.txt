@@ -9,3 +9,4 @@ plotly
 streamlit
 pytrends
 dash
+dash-bootstrap-components
